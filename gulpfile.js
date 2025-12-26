@@ -19,14 +19,14 @@ gulp.task('clean', function () {
 
 gulp.task('css', function () {
 	return gulp
-	.src('./src/css/*.less')
-	.pipe(less().on('error', function(err) {
-		console.log(err);
-		this.emit('end');
-	}))
-	.pipe(minifycss({ compatibility: 'ie8' }))
-	.pipe(autoprefixer({ overrideBrowserslist: ['last 2 version'] }))
-	.pipe(cssnano({ reduceIdents: false }))
+		.src('./src/css/*.less')
+		.pipe(less().on('error', function (err) {
+			console.log(err);
+			this.emit('end');
+		}))
+		.pipe(minifycss({ compatibility: 'ie8' }))
+		.pipe(autoprefixer({ overrideBrowserslist: ['last 2 version'] }))
+		.pipe(cssnano({ reduceIdents: false }))
 		.pipe(gulp.dest('./dist/css'))
 })
 
@@ -70,6 +70,6 @@ gulp.task('watch', function () {
 	connect.server({
 		root: 'dist',
 		livereload: true,
-		port: 8080
+		port: 3000
 	})
 })
