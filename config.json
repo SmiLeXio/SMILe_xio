@@ -21,9 +21,9 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://3000-iiy8c0bgwm8y14egm8rjg-4626a795.us2.manus.computer",
 				"icon": "bokeyuan",
-				"text": "博客"
+				"text": "首页"
 			},
 			"second": {
 				"href": "about/",
@@ -36,7 +36,7 @@
 				"text": "功能"
 			},
 			"fourth": {
-				"href": "https://github.com/SimonAKing",
+				"href": "https://github.com/SmiLeXio",
 				"icon": "email",
 				"text": "联系"
 			}
