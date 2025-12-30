@@ -8,7 +8,7 @@
 		"title": "SMILe_Xio",
 		"subtitle": "做个可爱的人，不烦世事，满心欢喜❤",
 		"enter": "enter",
-		"supportAuthor": true,
+		"supportAuthor": false,
 		"background": true
 	},
 	"main": {

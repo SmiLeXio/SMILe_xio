@@ -5,16 +5,9 @@
 
 ## 项目简介
 
-> 一个现代优雅的个人主页，具有流体动画背景、响应式设计和流畅的页面过渡效果。
+个人网站项目
 
-![preview](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMncyb3oyc21zc3czejU3cGk4M2tiNTdkaTM0N3FodGVpZmU5azNxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhXFCZEogq39rOpKUi/giphy.gif)
-
-[在线浏览](http://simonaking.com)
-
-嗯哼，你想为网站装上如此酷炫的主页吗?
-
-下面就让我们开始吧！
-
+[在线浏览](暂无)
 
 ## 安装步骤
 
