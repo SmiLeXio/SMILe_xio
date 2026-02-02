@@ -10,7 +10,9 @@
 	"scripts": {
 		"predev": "gulp build",
 		"dev": "gulp watch",
-		"build": "gulp build"
+		"build": "gulp build",
+		"predeploy": "npm run build",
+		"deploy": "node scripts/deploy.mjs"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.4.4",
